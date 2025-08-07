@@ -1,0 +1,2 @@
+
+Publicstativ void main
